@@ -1,24 +1,59 @@
 
 
 #Network layers:
-- management plane
-- control plane
-- data plane
+    - management plane
+    - control plane
+    - data plane
 
 #Traffic engineering opt: 
-- graph like structure
-- debit link is used as a parameter, usually it does´t change as often as links
-- avoid parameters that change constantly over time
+    - graph like structure
+    - debit link is used as a parameter, usually it does´t change as often as links
+    - avoid parameters that change constantly over time
 
 ## Routing convergence
-- when a link changes, all routers must recalculate their links
+    - when a link changes, all routers must recalculate their links
 
 
 # current internet organization
 
-AS = autonomous system ----> networks that belong to the same owner
-IGP = Interior Gateway protocol
-Intradomain Routing = 
-EGP = exterior gateway protocol
-BGP = border gateway protocol -> fowarding between similar networks
+    AS = autonomous system ----> networks that belong to the same owner
+    IGP = Interior Gateway protocol
+    Intradomain Routing = 
+    EGP = exterior gateway protocol
+    BGP = border gateway protocol -> fowarding between similar networks
 
+# Example
+
+Access Control
+
+solutions are 100% vertical
+
+##Disaggregation applied to computer industry
+    . application layer
+    . OS layer
+    . Hardware layer
+
+## Disaggregation applied to Network industry
+
+    big techs started network Disaggregation by developing it´s own network Hardware, creating an open interface
+    paradigm changing / game changer ---> evolution
+
+
+# Software Defined Network ( SDN ) 
+    what makes a difference is almost 100% related to software than Hardware
+
+    examples:
+        - VL2 - Microsoft
+        - B4 - Google
+    Decouple of dataplane and control plane
+
+    It means that we have now a centralized archtecture. It means that control plane is at controller
+    Advantage: global network vision
+    disavantage: ?
+
+    2 sides
+
+        1. south bound = control plane and dataplane
+        2. north bound = applications
+
+        examples: openVSwitch and openDayLight
