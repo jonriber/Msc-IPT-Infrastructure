@@ -1,6 +1,6 @@
 
 
-#Network layers:
+#Network planes layers:
     - management plane
     - control plane
     - data plane
@@ -51,9 +51,33 @@ solutions are 100% vertical
     Advantage: global network vision
     disavantage: ?
 
-    2 sides
+    SDN have 2 sides:
 
         1. south bound = control plane and dataplane
         2. north bound = applications
 
         examples: openVSwitch and openDayLight
+
+    North bound is where the money is. 
+
+    OPEN NETWORK FOUNDATION
+    
+    slicing software means that I should be able to have different solutions into a single hardware.
+    facebook engineering - cool tech site
+
+    Virtual overlay - traffic sent through tunnels
+    physical overlay
+
+
+    Content distribution network (CDN)
+        AKAMAI COMPANY - generate network traffic
+
+    Abstraction does´t eliminate complexity
+
+    SDN objective is to simplify interface for control program
+
+
+GNS3 server version: 2.2.20
+
+vmware
+
