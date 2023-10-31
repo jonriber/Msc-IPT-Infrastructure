@@ -14,3 +14,20 @@ SD-WAN = applied in networks that use multiples sites communication through publ
     - Ipanema
 
 
+# OpenFlow
+    - Its a protocol that enables data exchange between different switches
+
+    * basics
+
+    *Flow table
+        - Match
+        - Action
+        - Counter
+        - 
+
+    * Types of messages
+        - Asynchronous (controller to switch)
+        - Asynchronous (initiated by the switcher)
+
+
+   
