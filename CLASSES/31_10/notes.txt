@@ -1,0 +1,16 @@
+Gartner Hype Cycle
+
+# Phases
+    - Innovation Trigger
+    - Peak of inflated expectations
+    - Trough of Sisillusionment
+    - Slope of Enlightenment
+    - Plateau of productivity
+
+SDN = Local Network
+
+SD-WAN = applied in networks that use multiples sites communication through public network
+    - Cisco
+    - Ipanema
+
+
