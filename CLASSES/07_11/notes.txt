@@ -1,0 +1,39 @@
+HTTP and Websockets
+
+# ansible
+    * descrito em YANG
+    We use a playbook to pass commands to multiple vendors
+
+# IOT (protocols and functionalities)
+    - physical layer:
+        * WIfi IEEE 802.11
+        * 802.15.4
+        * bluetooth
+        * 
+    - Network layer:
+        * IPV6
+        * IPV4
+    - Data Layer:
+        * UDP 
+    - application Layer:
+        * RFID - passive and active hardware (tags)
+        * Web of things - HTTP
+        * Wireless sensor network (WSN) - IEEE802.15.4
+        * IOT TCP/IP
+
+
+    RESTful
+
+    MQTT
+
+
+    shodan.io
+
+    PRACTICAL CLASS
+
+    commands to install mininet
+
+    * sudo apt install ntpdate
+    * sudo ntpdate -v pool.ntp.org
+
+    
