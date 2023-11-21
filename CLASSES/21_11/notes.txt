@@ -1,0 +1,24 @@
+
+Theorical class [first part]
+
+IaaC = Infrastructure as a code
+
+Virtualization for Infrastructure simulation
+
+
+other types of interfaces
+    - API
+    - NETCONF
+    - RESTCONF
+    - XML
+
+    HOW to write configs for networks:
+        - YANG
+        - YAML
+
+SNMP = Simple Network Management Protocol
+
+
+
+
+
