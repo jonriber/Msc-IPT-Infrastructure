@@ -34,5 +34,13 @@ Difference between Declarative and Imperative
     Microservices and devops needs IaaC, without it, there is no use to struct your
     project with Microservices, just use monolith instead.
 
+Tools for Iaac:~
+
+    - Terraform
+    - ANSIBLE = not a language, but a python tool that uses the YAML language to tell configuration and states.
+
     
+
+
+
 
