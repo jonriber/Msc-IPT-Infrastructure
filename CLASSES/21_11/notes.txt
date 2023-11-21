@@ -18,7 +18,21 @@ other types of interfaces
 
 SNMP = Simple Network Management Protocol
 
+Difference between Declarative and Imperative
+    - Imperative you must tell how to get things done, step by step
+    - Declarative is the one where you just tell what you want, but it doesnt matter~
+        other parameters of decision
 
+# DEV OPS:~
+    - Development of operations
 
+    Before, there was a huge gap between development sector and Infrastructure sector.
+    devops is more like a phylosofy.
 
+    CI/CD = Continuous Integration/Continous Development
+
+    Microservices and devops needs IaaC, without it, there is no use to struct your
+    project with Microservices, just use monolith instead.
+
+    
 
