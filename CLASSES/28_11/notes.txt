@@ -1,0 +1,19 @@
+# Network performance evaluation
+
+    Evaluate different data protocols, TCP, UDP
+    
+    Metrics:
+        - Packet loss
+        - Delay
+        - Delay delta
+
+        Delay can be affected by package size
+
+
+    Difference between Debit and throughput:
+        Debit has a direct relation with transmission capacity and rate, so, it means it rely only
+        on physical conditions of transmission.
+
+    Tools for metric evaluation and analysis:
+        - iperf
+        - jperf (java)
