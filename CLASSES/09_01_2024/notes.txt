@@ -1,0 +1,23 @@
+
+PROJECT 2 TUTORIAL LINK:
+
+- https://medium.com/@sreejithkj52/onos-tutorial-with-mininet-4b2ce99a474d
+
+TUTORIAL PART 2:
+
+- https://medium.com/@sreejithkj52/onos-tutorial-with-mininet-part-2-ed1b30582da0
+
+PROJECT 2 DUE DATE: 23/01/2024
+
+Check if mininet is installed:
+» sudo mn
+
+check if onos is installed:
+» sudo /opt/onos/bin/ono-service start
+
+access onos using cli:~
+    ssh karaf@127.0.0.1
+    psswd: karaf
+
+    using http:
+        127.0.0.1:8181/onos/ui
